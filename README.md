@@ -60,6 +60,11 @@ The executive track begins with Director and Senior Director roles. Depending on
 
 Vice President and Senior Vice President are similar escalations up the corporate ladder. Those holding these jobs may see more diversity on their staff as they may also end up owning business analysts, UX, product marketing, or other related functions. The apex of a product management career is Chief Product Officer. Although not as common, this increasingly seen role elevates product management to the C-suite. It gives the product the same political weight as Engineering or Marketing, which often indicates an organization is committed to product-led growth. A CPO is typically supported by a larger team and provides directional guidance and coaching rather than diving into the nitty-gritty details of particular products.
 ![alt text](image-3.png)
+## What are the Most Important Product Management Skills?
+With a shared understanding of product management’s scope, we can dig into what it takes to be a product manager. Product managers find their way by following the paths of those who came before them. And those more experienced in the profession have plenty of lessons to offer their peers and newcomers. 
+
+You can’t get a degree in product management. There’s no single career path to get there. It’s more about the skills required to do the job well than a particular pedigree. Here are some of the key hard skills in product management.
+![alt text](image-4.png)
 ## Common
 1. [Startup School](https://www.startupschool.org/)
 1. [Product Manager HQ](https://www.productmanagerhq.com/)
