@@ -5,6 +5,7 @@ This Awesome list about [Product Management](https://en.wikipedia.org/wiki/Produ
 
 ## Table of Contents
 1. [Introduction](#Introductions)
+2. [What is product management?](#What-is-product-management?)
 2. [What is product management?](#What is product management?)
 3. [Product Manager vs Project Manager](#Product Manager vs Project Manager)
 4. [Product management’s strategic function](#Product management’s strategic function)
