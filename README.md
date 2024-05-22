@@ -31,7 +31,15 @@ Finally, after building, testing, and introducing the product to the marketplace
 
 ## Product Manager vs Project Manager
 ![alt text](image.png)
+## Product management’s strategic function
+Product management is a strategic function. Tasking product managers with determining a product’s overall reason for being—the product’s “Why?” 
 
+They’re also responsible for communicating product objectives and plans for the rest of the company. They must ensure everyone is working toward a shared organizational goal. 
+
+Product management encompasses a broad set of ongoing strategic responsibilities. They shouldn’t be responsible for the ground-level details of the development process.
+
+Innovative organizations separate this function and assign tactical elements to project managers, such as scheduling and managing workloads. This distinct division leaves the product manager free to focus on the higher-level strategy.
+![alt text](image-1.png)
 ## Common
 1. [Startup School](https://www.startupschool.org/)
 1. [Product Manager HQ](https://www.productmanagerhq.com/)
