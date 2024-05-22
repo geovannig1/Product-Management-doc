@@ -29,8 +29,8 @@ Assuming they have received a green light to move forward with their product’s
 ### Acting on Feedback and Data Analysis: 
 Finally, after building, testing, and introducing the product to the marketplace, learning via data analysis and soliciting direct feedback from users, what works, what doesn’t, and what to add. Working with the relevant teams to incorporate this feedback into future product iterations.
 
-
-
+## Product Manager vs Project Manager
+![alt text](image.png)
 
 ## Common
 1. [Startup School](https://www.startupschool.org/)
