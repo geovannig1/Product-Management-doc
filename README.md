@@ -49,10 +49,17 @@ Associate product managers and junior product managers are typically new to the 
 
 Technical product managers are another critical variation of the role. These individuals are often transitioning from a role in the engineering or IT teams and tasked with managing aspects of one or more products requiring a deeper understanding of technical issues, such as infrastructure and APIs.
 
-Agile product managers
+## Agile product managers
 In an Agile organization, product owners also may be part of the puzzle. While there’s some debate, product owners are often considered part of product management. However, they are distinct from product managers. A product owner is embedded in one or more scrum teams, but their focus is mainly tactical, helping ensure the strategy laid out by product managers is appropriately executed. 
 
 As one moves up through the ranks, more senior product management roles have more significant distinctions. For example, a product line manager will own multiple products that are typically related to each other, sometimes overseeing individual contributor product managers that manage a single product or sub-component.
+
+
+## The Product Executive Track
+The executive track begins with Director and Senior Director roles. Depending on the company’s size, this may be a loftier title for a “lone wolf” product management professional. But, on the other hand, it may indicate an even broader portfolio of products and the corresponding direct reports to support that. 
+
+Vice President and Senior Vice President are similar escalations up the corporate ladder. Those holding these jobs may see more diversity on their staff as they may also end up owning business analysts, UX, product marketing, or other related functions. The apex of a product management career is Chief Product Officer. Although not as common, this increasingly seen role elevates product management to the C-suite. It gives the product the same political weight as Engineering or Marketing, which often indicates an organization is committed to product-led growth. A CPO is typically supported by a larger team and provides directional guidance and coaching rather than diving into the nitty-gritty details of particular products.
+![alt text](image-3.png)
 ## Common
 1. [Startup School](https://www.startupschool.org/)
 1. [Product Manager HQ](https://www.productmanagerhq.com/)
