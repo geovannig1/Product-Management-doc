@@ -26,7 +26,7 @@ Shaping the industry knowledge they’ve learned into a high-level strategic pla
 Developing a working strategic plan using a product roadmap and presenting it to key stakeholders across their organization: executives, investors, development teams, etc. Ongoing communication across their cross-functional teams throughout the development process and beyond.
 ### - Coordinating Development: 
 Assuming they have received a green light to move forward with their product’s strategic plan, coordinate with the relevant teams—product marketing, development, etc.—to begin executing the plan.
-### Acting on Feedback and Data Analysis: 
+### - Acting on Feedback and Data Analysis: 
 Finally, after building, testing, and introducing the product to the marketplace, learning via data analysis and soliciting direct feedback from users, what works, what doesn’t, and what to add. Working with the relevant teams to incorporate this feedback into future product iterations.
 
 ## Product Manager vs Project Manager
