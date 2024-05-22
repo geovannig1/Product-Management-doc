@@ -4,7 +4,7 @@ This Awesome list about [Product Management](https://en.wikipedia.org/wiki/Produ
 ![PM Banner](https://github.com/shahedbd/awesome-project-management/blob/master/ProductManagement/Resource/pm-main.png)
 
 ## Table of Contents
-1. [Common](#Common)
+1. [Introduction](#Introductions)
 
 ## Inroduction
 The question, “What is product management?” comes up pretty often, even from experienced business people. One reason is that product management encompasses a wide-ranging area of responsibilities. Indeed, the role itself means very different things in different organizations.
