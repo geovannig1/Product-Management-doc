@@ -6,12 +6,12 @@ This Awesome list about [Product Management](https://en.wikipedia.org/wiki/Produ
 ## Table of Contents
 1. [Introduction](#Introductions)
 2. [What is product management?](#What-is-product-management)
-3. [Product Manager vs Project Manager](#Product Manager vs Project Manager)
-4. [Product management’s strategic function](#Product management’s strategic function)
-5. [Product Management Jobs](#Product Management Jobs)
-6. [Agile product managers](#Agile product managers)
-7. [The Product Executive Track](#The Product Executive Track)
-8. [What are the Most Important Product Management Skills?](#What are the Most Important Product Management Skills?)
+3. [Product Manager vs Project Manager](#Product-Manager-vs-Project-Manager)
+4. [Product management’s strategic function](#Product-management’s-strategic-function)
+5. [Product Management Jobs](#Product-Management-Jobs)
+6. [Agile product managers](#Agile-product-managers)
+7. [The Product Executive Track](#The-Product-Executive-Track)
+8. [What are the Most Important Product Management Skills?](#What-are-the-Most-Important-Product-Management-Skills?)
 9. [Common](#Common)
 
 ## Inroduction
