@@ -40,6 +40,19 @@ Product management encompasses a broad set of ongoing strategic responsibilities
 
 Innovative organizations separate this function and assign tactical elements to project managers, such as scheduling and managing workloads. This distinct division leaves the product manager free to focus on the higher-level strategy.
 ![alt text](image-1.png)
+## Product Management Jobs
+The ideal product management job is—unsurprisingly—being a product manager. A product manager will usually own one or more products or a horizontal function across multiple products, such as “user experience” or “e-commerce.” 
+
+Associate product managers and junior product managers are typically new to the domain and have more limited responsibilities. A senior product manager will have a little more seasoning and a broader scope of their role. But these are essentially slightly different flavors of your basic product manager.
+
+![alt text](image-2.png)
+
+Technical product managers are another critical variation of the role. These individuals are often transitioning from a role in the engineering or IT teams and tasked with managing aspects of one or more products requiring a deeper understanding of technical issues, such as infrastructure and APIs.
+
+Agile product managers
+In an Agile organization, product owners also may be part of the puzzle. While there’s some debate, product owners are often considered part of product management. However, they are distinct from product managers. A product owner is embedded in one or more scrum teams, but their focus is mainly tactical, helping ensure the strategy laid out by product managers is appropriately executed. 
+
+As one moves up through the ranks, more senior product management roles have more significant distinctions. For example, a product line manager will own multiple products that are typically related to each other, sometimes overseeing individual contributor product managers that manage a single product or sub-component.
 ## Common
 1. [Startup School](https://www.startupschool.org/)
 1. [Product Manager HQ](https://www.productmanagerhq.com/)
